@@ -1,2 +1,2 @@
 # Isabelle-Exercise
-Exercises from the book Concrete Semantics.
+Exercises and examples from the book __Concrete Semantics__.
